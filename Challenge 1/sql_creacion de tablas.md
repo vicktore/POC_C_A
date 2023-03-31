@@ -2,6 +2,7 @@ Pasos
 
 Craer Base de Datos Mysql
 
+ip: 212.1.208.201
 DB: u156469157_poc_ca
 User: u156469157_poc_ca
 Contraseña: Poc_ca2023%
