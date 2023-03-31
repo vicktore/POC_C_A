@@ -21,3 +21,7 @@ Requerimientos
 A.	Número de empleados contratados para cada puesto y departamento en 2021 dividido por trimestre. El reporte debe tener los filtros dinámicos adecuados para poder delimitar la información por department y/o job.
 B.	Lista de Ids, departamento y cantidad de empleados contratados (hired) en cada departamento, que terminó contratando más empleados de la media del 2021. Estos deben ir ordenados por número de empleados contratados  (descendente).
 C.	Para responder y darle forma a cada una de estas interrogantes puede utilizar la herramienta de visualización de su preferencia (PBI, Looker, Tableau,Qlik…etc.).
+
+
+Accceso al libro de tableu
+https://public.tableau.com/views/pocca/1_JOBxDptxTrim?:language=es-ES&publish=yes&:display_count=n&:origin=viz_share_link
